@@ -1,0 +1,21 @@
+{
+  "name": "cryptocurrency",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cryptocurrency"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Durgesh Pratap Singh",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
